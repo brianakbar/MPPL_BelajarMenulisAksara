@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6a8153f26b9c4d4db5bbbff2802fed6, type: 3}
+  m_Name: Jawa Easy
+  m_EditorClassIdentifier: 
+  language: 0
+  languageSprite: {fileID: 21300000, guid: 69c619f26d45c4a41890507c4376fbc8, type: 3}
+  difficulty: 0
+  aksaraCharacters:
+  - {fileID: 11400000, guid: b6544347023f1d948a6fbbf3c1b87b72, type: 2}
+  - {fileID: 11400000, guid: 9e5fc342b0565804ab603025dfb56529, type: 2}
+  - {fileID: 11400000, guid: 800d8d39e1a865c44bbd61ee70c65df0, type: 2}
+  - {fileID: 11400000, guid: d27aea76422f03047aed6b453a5ad1bf, type: 2}
+  - {fileID: 11400000, guid: 1c4301c3d642c194db7b9755ca6cb6b0, type: 2}
+  - {fileID: 11400000, guid: 71716621abd749d4bb8cef5dc62822dd, type: 2}
+  - {fileID: 11400000, guid: 93d39bcc0bd99d44799b9ce2580b208e, type: 2}
+  - {fileID: 11400000, guid: cfbf591aaab852441a926b6b4b1a1f32, type: 2}
+  - {fileID: 11400000, guid: e31430f507f52864690ef34131b2621d, type: 2}
+  - {fileID: 11400000, guid: 378bfb10c319f6544a2f955e868c65d8, type: 2}
+  - {fileID: 11400000, guid: 4a8d2e8b012831248bb05b642e24d006, type: 2}
+  - {fileID: 11400000, guid: 66de0bf84d4902b4c924bb42c3afe631, type: 2}
+  - {fileID: 11400000, guid: 1ca400312d21a3d4f9d5dd72d77e85d9, type: 2}
+  - {fileID: 11400000, guid: 46ddee71124561b4babae827806d18a0, type: 2}
+  - {fileID: 11400000, guid: 42453cf982b94aa4e8c2261862b6aea4, type: 2}
+  - {fileID: 11400000, guid: 40c14664ad1eada40a7a7e4ba959c685, type: 2}
+  - {fileID: 11400000, guid: 34e254e7796528b4fa0366d4c22f7b96, type: 2}
+  - {fileID: 11400000, guid: d40e07d45a78ed44292dc001aea0ee49, type: 2}
+  - {fileID: 11400000, guid: b6795420002fb6b47a9c2d4856a79689, type: 2}
+  - {fileID: 11400000, guid: 112a1acad3e196a46bc90f41982cfdd5, type: 2}
