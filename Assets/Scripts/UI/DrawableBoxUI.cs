@@ -1,8 +1,8 @@
 using UnityEngine;
 using UnityEngine.UI;
-using Aksara.Core;
 
-namespace Aksara.UI {
+namespace Aksara.UI
+{
     public class DrawableBoxUI : MonoBehaviour {
         [SerializeField] Image aksaraFill = null;
         [SerializeField] Image aksaraOutline = null;

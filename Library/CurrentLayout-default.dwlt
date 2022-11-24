@@ -122,7 +122,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 471}
   m_MaxSize: {x: 14001, y: 14021}
   vertical: 0
-  controlID: 299
+  controlID: 3690
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 471}
   m_MaxSize: {x: 10000, y: 14021}
   vertical: 1
-  controlID: 300
+  controlID: 3591
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 301
+  controlID: 3592
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -396,9 +396,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 000b0000
+      m_SelectedIDs: a8d5ffff
       m_LastClickedID: 0
-      m_ExpandedIDs: 3efbffff
+      m_ExpandedIDs: cad2ffffacd5ffff56dfffff8aefffff90efffff94efffff9aefffff3efbfffff4ffffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -458,9 +458,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 180.64836, y: 432.50082, z: 61.71401}
+    m_Target: {x: 345.57, y: 430.90704, z: -39.23124}
     speed: 2
-    m_Value: {x: 180.64836, y: 432.50082, z: 61.71401}
+    m_Value: {x: 345.57, y: 430.90704, z: -39.23124}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -511,9 +511,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 246.43127
+    m_Target: 688.90955
     speed: 2
-    m_Value: 246.43127
+    m_Value: 688.90955
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -576,22 +576,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts/Utility
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts/Utility
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: E:\Program Files\Unity\Project\Belajar Menulis Aksara
+  m_LastProjectPath: E:\Git Repo\MPPL_BelajarMenulisAksara
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 186}
-    m_SelectedIDs: b64b0000
-    m_LastClickedID: 19382
-    m_ExpandedIDs: 000000006e4b0000704b0000724b0000744b0000764b0000784b0000944b000000ca9a3b
+    scrollPos: {x: 0, y: 94}
+    m_SelectedIDs: 9a4b0000
+    m_LastClickedID: 19354
+    m_ExpandedIDs: 000000006e4b0000704b0000724b0000744b0000764b0000784b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

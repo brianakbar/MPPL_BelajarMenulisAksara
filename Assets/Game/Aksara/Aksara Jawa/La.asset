@@ -17,3 +17,4 @@ MonoBehaviour:
   fillSprite: {fileID: 21300000, guid: 12bf33016dc78774b84d3006912a0481, type: 3}
   outlineSprite: {fileID: 21300000, guid: 09d3f4632236cdd4599849dc46bcbc5f, type: 3}
   accuracy: 0.55
+  sound: {fileID: 8300000, guid: 33aa5d860101e4844a7358519ec0dc55, type: 3}

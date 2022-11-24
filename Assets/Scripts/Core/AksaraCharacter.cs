@@ -17,5 +17,7 @@ namespace Aksara.Core {
         public Sprite OutlineSprite { get { return outlineSprite; } }
         [SerializeField] [Range(0f, 1f)] float accuracy = 0.5f;
         public float Accuracy { get { return accuracy; } }
+        [SerializeField] AudioClip sound;
+        public AudioClip Sound { get { return sound; } }
     }
 }
