@@ -11,15 +11,22 @@ namespace Aksara.UI
     {
         [SerializeField] Image aksaraImage;
         [SerializeField] TextMeshProUGUI aksaraName;
+        [SerializeField] Image checkmarkImage;
         AksaraCharacter aksara;
 
-        public void Setup(AksaraCharacter aksara) {
+        public void Awake() {
+            checkmarkImage.enabled = false;
+        }
+
+        public void Setup(AksaraCharacter aksara, bool isComplete) {
             if(aksara == null) return;
 
             this.aksara = aksara;
 
             aksaraImage.sprite = aksara.MainMenuSprite;
             aksaraName.text = aksara.CharacterName;
+            
+            if(isComplete) checkmarkImage.enabled = true;
         }
 
         public void OnClick() {

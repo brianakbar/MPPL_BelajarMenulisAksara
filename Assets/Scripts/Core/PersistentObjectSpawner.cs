@@ -13,6 +13,10 @@ namespace Aksara.Core {
             hasSpawned = true;
         }
 
+        public void SetHasSpawned(bool state) {
+            hasSpawned = state;
+        }
+
         void SpawnPersistentObjects() {
             GameObject persistentObjects = Instantiate(persistentObjectsPrefab);
             DontDestroyOnLoad(persistentObjects);

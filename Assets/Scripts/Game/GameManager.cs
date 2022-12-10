@@ -53,6 +53,7 @@ namespace Aksara.Game {
                 Texture2D playerAnswer = texture;
                 bool isComplete = TextureComparer.CompareTexture(original, correctAnswer, 
                                                                 playerAnswer, aksara.Accuracy);
+                if(isComplete) gameSetting.SetComplete();
                 gameUI.ShowGameFinish(isComplete);
             });
         }

@@ -38,7 +38,7 @@ namespace Aksara.UI
 
             foreach(AksaraCharacter aksara in aksaraCharacters) {
                 var instance = Instantiate(selectLevelItemPrefab, transform);
-                instance.Setup(aksara);
+                instance.Setup(aksara, gameSetting.GetComplete(aksara));
             }
         }
     }

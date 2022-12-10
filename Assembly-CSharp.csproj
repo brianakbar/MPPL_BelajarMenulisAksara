@@ -37,6 +37,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Utility\TextureComparer.cs" />
+     <Compile Include="Assets\Scripts\Sound\SoundManager.cs" />
      <Compile Include="Assets\Scripts\UI\SelectLevelUI.cs" />
      <Compile Include="Assets\Scripts\UI\DrawableBoxUI.cs" />
      <Compile Include="Assets\Scripts\Core\PersistentObjectSpawner.cs" />
@@ -47,6 +48,7 @@
      <Compile Include="Assets\Scripts\UI\MainMenu.cs" />
      <Compile Include="Assets\Scripts\Control\PlayerController.cs" />
      <Compile Include="Assets\Scripts\Setting\GameSetting.cs" />
+     <Compile Include="Assets\Scripts\UI\AudioButton.cs" />
      <Compile Include="Assets\Scripts\Game\GameManager.cs" />
      <Compile Include="Assets\Scripts\Setting\LevelSetting.cs" />
      <Compile Include="Assets\Scripts\Core\AksaraCharacter.cs" />
@@ -58,8 +60,11 @@
      <Compile Include="Assets\Scripts\UI\GameFinishPanelUI.cs" />
      <Compile Include="Assets\Scripts\UI\GameUI.cs" />
      <Compile Include="Assets\Scripts\Setting\LanguageSetting.cs" />
-     <Compile Include="Assets\Scripts\Sound\SoundManager.cs" />
-     <Compile Include="Assets\Scripts\UI\AudioButton.cs" />
+     <Compile Include="Assets\Scripts\Saving\SavingSystem.cs" />
+     <Compile Include="Assets\Scripts\Saving\SerializableVector3.cs" />
+     <Compile Include="Assets\Scripts\Saving\SaveableEntity.cs" />
+     <Compile Include="Assets\Scripts\Saving\ISaveable.cs" />
+     <Compile Include="Assets\Scripts\SceneManagement\SavingWrapper.cs" />
      <None Include="Assets\Asset Packs\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\Asset Packs\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\Asset Packs\TextMesh Pro\Shaders\TMP_Bitmap.shader" />

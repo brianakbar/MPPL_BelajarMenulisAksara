@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ed673b082ec17f48ada81ad7d0bc5e1, type: 3}
+  m_Name: Ka
+  m_EditorClassIdentifier: 
+  characterName: Ka
+  mainMenuSprite: {fileID: 21300000, guid: 6dc5bc1d0785b9948a4dc483f8d5174d, type: 3}
+  fillSprite: {fileID: 21300000, guid: aaad478fc0a05b646af5cf7e5c79645a, type: 3}
+  outlineSprite: {fileID: 21300000, guid: 1da2e69d46ac4da44b35b0a41f3e43e5, type: 3}
+  accuracy: 0.55
+  sound: {fileID: 8300000, guid: 5273287451e575549a8652bd35321eb1, type: 3}
