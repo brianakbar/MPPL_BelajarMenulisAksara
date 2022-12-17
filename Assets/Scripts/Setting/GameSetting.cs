@@ -2,6 +2,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Aksara.Core;
 using Aksara.Saving;
+using System;
 
 namespace Aksara.Setting {
     public class GameSetting : MonoBehaviour, ISaveable {
@@ -82,6 +83,14 @@ namespace Aksara.Setting {
 
         public IEnumerable<AksaraCharacter> GetAksaraCharacters() {
             return GetLevelSetting().AksaraCharacters;
+        }
+
+        public IEnumerable<Difficulty> GetAksaraTypes() {
+            foreach(LevelSetting setting in levelSettings) {
+                if(setting.Language == language) {
+                    yield return setting.Difficulty;
+                }
+            }
         }
 
         void BuildRecord() {

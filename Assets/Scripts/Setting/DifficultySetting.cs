@@ -3,7 +3,11 @@ using Aksara.Core;
 
 namespace Aksara.Setting {
     public class DifficultySetting : MonoBehaviour {
-        [SerializeField] Difficulty difficulty;
+        Difficulty difficulty;
+
+        public void SetDifficulty(Difficulty difficulty) {
+            this.difficulty = difficulty;
+        }
 
         public Difficulty GetDifficulty() {
             return difficulty;

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6a8153f26b9c4d4db5bbbff2802fed6, type: 3}
+  m_Name: Batak Toba Ina Ni Surat
+  m_EditorClassIdentifier: 
+  language: 3
+  difficulty: 9
+  aksaraCharacters:
+  - {fileID: 11400000, guid: 69b5202399d818b4692dedd2987e0360, type: 2}
+  - {fileID: 11400000, guid: a6156eb138665994583c406714107f0f, type: 2}
+  - {fileID: 11400000, guid: ecfcae757e29b7c4bac8989eccc663a1, type: 2}
+  - {fileID: 11400000, guid: 20fc929106684ee43967ad7aba4721e8, type: 2}
+  - {fileID: 11400000, guid: bfef8825565a94c44985d9eb57f86ef6, type: 2}
+  - {fileID: 11400000, guid: c49f55356978f9844aa286ccf99be134, type: 2}
+  - {fileID: 11400000, guid: 433a99e735c036842aed1a34544e7120, type: 2}
+  - {fileID: 11400000, guid: 5126353a6ef3e4548992ecd600ef8b45, type: 2}
+  - {fileID: 11400000, guid: 813ad091fbe7d444fad570590e4edcda, type: 2}
+  - {fileID: 11400000, guid: 1e871f8095646514785d6e49548d1518, type: 2}
+  - {fileID: 11400000, guid: 5879b525dda889e49ae5eca16c88d747, type: 2}
+  - {fileID: 11400000, guid: 9ddf3e75371486642a9eff39a9dca222, type: 2}
+  - {fileID: 11400000, guid: ec719e417acfe724dbe46c7cbfd0408f, type: 2}
+  - {fileID: 11400000, guid: a1f74243cb129f4478c23a0ed548a176, type: 2}
+  - {fileID: 11400000, guid: 035be29b9b861744290bafbef91a014b, type: 2}
+  - {fileID: 11400000, guid: 86e12cf4abeba8845869658237e55d4b, type: 2}
+  - {fileID: 11400000, guid: 0f5e1ab8983f89c47acacaffbb3584fb, type: 2}
+  - {fileID: 11400000, guid: 41d4e62710c74ad4d82b391b7ed5f569, type: 2}
+  - {fileID: 11400000, guid: de65e00aeb401fb42ba0b0169758432e, type: 2}

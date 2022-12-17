@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6a8153f26b9c4d4db5bbbff2802fed6, type: 3}
+  m_Name: Jawa Aksara Swara
+  m_EditorClassIdentifier: 
+  language: 0
+  difficulty: 4
+  aksaraCharacters:
+  - {fileID: 11400000, guid: cc361086aa044564589db2e4e5155576, type: 2}
+  - {fileID: 11400000, guid: f1aee88e9d1e35d4baf1ebfa38e62e59, type: 2}
+  - {fileID: 11400000, guid: d16b2aae4d3e9ad46ac3b3de6d88c52b, type: 2}
+  - {fileID: 11400000, guid: bf2b2682cbc2c14439c638e9ac1a6d27, type: 2}
+  - {fileID: 11400000, guid: f1f1c3f8da0f5ed43bd243437cc9aeac, type: 2}

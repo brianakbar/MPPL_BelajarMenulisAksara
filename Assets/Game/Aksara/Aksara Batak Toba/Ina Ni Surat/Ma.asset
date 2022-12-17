@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ed673b082ec17f48ada81ad7d0bc5e1, type: 3}
+  m_Name: Ma
+  m_EditorClassIdentifier: 
+  characterName: Ma
+  mainMenuSprite: {fileID: 21300000, guid: 30511d890b9f88d49b615c501147690c, type: 3}
+  fillSprite: {fileID: 21300000, guid: 357da301542201d4b9d7cf4b2f612bfe, type: 3}
+  outlineSprite: {fileID: 21300000, guid: cc6b37951049ddb42b03ea3f10d05daa, type: 3}
+  accuracy: 0.5
+  sound: {fileID: 0}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6a8153f26b9c4d4db5bbbff2802fed6, type: 3}
+  m_Name: Jawa Aksara Wilangan
+  m_EditorClassIdentifier: 
+  language: 0
+  difficulty: 5
+  aksaraCharacters:
+  - {fileID: 11400000, guid: cd99a285928360a4da6dfa48991a0185, type: 2}
+  - {fileID: 11400000, guid: a76248133243f8f41bb32adb7f955e04, type: 2}
+  - {fileID: 11400000, guid: c5436711f7307554a81d06690181d1a8, type: 2}
+  - {fileID: 11400000, guid: 27e7132c5a55d044fb38d8ab34379a49, type: 2}
+  - {fileID: 11400000, guid: 6b8bca344fc11be458399e0812683c12, type: 2}
+  - {fileID: 11400000, guid: becc3a52ccd947c408cad7f15386e587, type: 2}
+  - {fileID: 11400000, guid: e705b622fc5e99749a92f8b25fba8837, type: 2}
+  - {fileID: 11400000, guid: e0859456e02a86d408dfe6e9363ceda6, type: 2}
+  - {fileID: 11400000, guid: 731bbe1463b7e78499a21ae4858f659a, type: 2}
+  - {fileID: 11400000, guid: 1fdb5d65be5e8e54b8ea1ab583c93f67, type: 2}

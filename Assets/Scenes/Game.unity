@@ -422,6 +422,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 272626345436098206, guid: 1ccddcd0fef53aa439bda0e893874153, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: -1375589330166658606, guid: e11d21b062d62f4408c3c8c2aa6f26b3, type: 2}
+    - target: {fileID: 272626345436098206, guid: 1ccddcd0fef53aa439bda0e893874153, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 755602650312316301, guid: 1ccddcd0fef53aa439bda0e893874153, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -474,6 +482,14 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1498429891}
+    - target: {fileID: 5041660794008929284, guid: 1ccddcd0fef53aa439bda0e893874153, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: -1375589330166658606, guid: e11d21b062d62f4408c3c8c2aa6f26b3, type: 2}
+    - target: {fileID: 5041660794008929284, guid: 1ccddcd0fef53aa439bda0e893874153, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5748885093843462297, guid: 1ccddcd0fef53aa439bda0e893874153, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1

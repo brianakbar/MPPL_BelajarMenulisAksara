@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6a8153f26b9c4d4db5bbbff2802fed6, type: 3}
+  m_Name: Sunda Aksara Pangwilang
+  m_EditorClassIdentifier: 
+  language: 1
+  difficulty: 8
+  aksaraCharacters:
+  - {fileID: 11400000, guid: eda9f76fd820e6046aecc4ff822d8faf, type: 2}
+  - {fileID: 11400000, guid: cd4de2b52132eec47953b125760d6a0d, type: 2}
+  - {fileID: 11400000, guid: 670f06e88a70e6a4e99e862f46ea207a, type: 2}
+  - {fileID: 11400000, guid: 82331a3136423664ca0f2fad7be25d2a, type: 2}
+  - {fileID: 11400000, guid: b17d30eb16d4529489898b0ef8cb7597, type: 2}
+  - {fileID: 11400000, guid: 2e99e0bdaafb7d34ab06ad4e712bcf8a, type: 2}
+  - {fileID: 11400000, guid: ea99d65cfd7df5e4fb7f27d38e61edcc, type: 2}
+  - {fileID: 11400000, guid: 858498445c2215f4c9fe3c636df305bc, type: 2}
+  - {fileID: 11400000, guid: e570eab2da34286448bcd95a08e639b0, type: 2}
+  - {fileID: 11400000, guid: 7b5bbd8729713fa46a462a872511d31a, type: 2}

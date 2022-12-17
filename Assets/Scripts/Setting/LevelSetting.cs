@@ -9,8 +9,6 @@ namespace Aksara.Setting
     {
         [SerializeField] Language language;
         public Language Language { get { return language; } }
-        [SerializeField] Sprite languageSprite;
-        public Sprite LanguageSprite { get { return languageSprite; } }
         [SerializeField] Difficulty difficulty;
         public Difficulty Difficulty { get { return difficulty; } }
         [SerializeField] List<AksaraCharacter> aksaraCharacters = new List<AksaraCharacter>();

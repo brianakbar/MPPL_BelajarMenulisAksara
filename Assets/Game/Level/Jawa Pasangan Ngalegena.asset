@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6a8153f26b9c4d4db5bbbff2802fed6, type: 3}
+  m_Name: Jawa Pasangan Ngalegena
+  m_EditorClassIdentifier: 
+  language: 0
+  difficulty: 3
+  aksaraCharacters:
+  - {fileID: 11400000, guid: e2c639b0e01e2d84ca7ebb734d7d70b7, type: 2}
+  - {fileID: 11400000, guid: 616cdae0920a0b841a8071724779c858, type: 2}
+  - {fileID: 11400000, guid: 56992c4a200588742a4402a5acd84166, type: 2}
+  - {fileID: 11400000, guid: 234434f08969e0141a5bacdbb204fe2d, type: 2}
+  - {fileID: 11400000, guid: bb59521409ae5704abac2a91f6d1ef7e, type: 2}
+  - {fileID: 11400000, guid: 0276729ac0c5e204a90c16a0d1d870d9, type: 2}
+  - {fileID: 11400000, guid: 3c18bb8353ecd0a498d39df9761793a8, type: 2}
+  - {fileID: 11400000, guid: 1388cf6f8a1a4874e999e9e9d70b6fbd, type: 2}
+  - {fileID: 11400000, guid: 106b1ede0affe09489bdc04f400e064a, type: 2}
+  - {fileID: 11400000, guid: 35d9416a1cab0f040b854e23a4680e96, type: 2}
+  - {fileID: 11400000, guid: ceb8118a5514ebf428c281d3361b06ef, type: 2}
+  - {fileID: 11400000, guid: e6de18db0342aa64d85e73afc455a142, type: 2}
+  - {fileID: 11400000, guid: 523ddf3e827337543a71c54d03f2dc68, type: 2}
+  - {fileID: 11400000, guid: afafeee371634b54bb06735bd9fca900, type: 2}
+  - {fileID: 11400000, guid: be52200d174b8474d9da9a108ae4a74e, type: 2}
+  - {fileID: 11400000, guid: 9abb3fcbe0926b944b5b3247a3986c07, type: 2}
+  - {fileID: 11400000, guid: f7d08c4dc965b84429f6b7e80297be3d, type: 2}
+  - {fileID: 11400000, guid: ba9bc974d70537346abefe365a7aa7c2, type: 2}
+  - {fileID: 11400000, guid: a1ccf81d729332b4fbda3d6d2876c173, type: 2}
+  - {fileID: 11400000, guid: 94ee48f067baec84ba91d66a4879bbeb, type: 2}

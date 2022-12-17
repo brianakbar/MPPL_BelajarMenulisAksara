@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6a8153f26b9c4d4db5bbbff2802fed6, type: 3}
+  m_Name: Sunda Aksara Swara
+  m_EditorClassIdentifier: 
+  language: 1
+  difficulty: 4
+  aksaraCharacters:
+  - {fileID: 11400000, guid: cb763b385e072da4183e11a9cb38256c, type: 2}
+  - {fileID: 11400000, guid: b3e7a91f656adc44f96855a85e8912d8, type: 2}
+  - {fileID: 11400000, guid: d851022e8b24b95418fa518bba08eaef, type: 2}
+  - {fileID: 11400000, guid: 4f44b4cbaf96a474d9ac8a899d473ec0, type: 2}
+  - {fileID: 11400000, guid: bc9acb61d4ab78f44af7b6de243b2178, type: 2}
+  - {fileID: 11400000, guid: 3c8d22546745f48428e1982fb4995d38, type: 2}
+  - {fileID: 11400000, guid: 68e54c5e688faf14589e5c53ea84d22d, type: 2}

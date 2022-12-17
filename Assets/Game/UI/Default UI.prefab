@@ -35,7 +35,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
   m_AnchoredPosition: {x: 0, y: 50}
-  m_SizeDelta: {x: 214, y: 18}
+  m_SizeDelta: {x: 224, y: 18}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!222 &1070064379090145073
 CanvasRenderer:
@@ -67,8 +67,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Copyright \xA9 2022 MayoritasMadura"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 9697b7829f2d5fa47abe1407f4fb8579, type: 2}
+  m_sharedMaterial: {fileID: -3274708009738877521, guid: 9697b7829f2d5fa47abe1407f4fb8579, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

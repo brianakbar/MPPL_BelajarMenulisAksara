@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6a8153f26b9c4d4db5bbbff2802fed6, type: 3}
+  m_Name: Sunda Aksara Serapan
+  m_EditorClassIdentifier: 
+  language: 1
+  difficulty: 6
+  aksaraCharacters:
+  - {fileID: 11400000, guid: 27015308eb712284d8ede22793590f5d, type: 2}
+  - {fileID: 11400000, guid: 1e2198dd28d6620458c8221dd0fe3ef5, type: 2}
+  - {fileID: 11400000, guid: 480cdec1e39d0ef43b23f6692d1e9926, type: 2}
+  - {fileID: 11400000, guid: 28128230b6a165c4cb667d6f80a2b1d5, type: 2}
+  - {fileID: 11400000, guid: 5dcac479025f98c46b174e94f7a26625, type: 2}
+  - {fileID: 11400000, guid: 6151ea5577bd298409bd28957a24213b, type: 2}
+  - {fileID: 11400000, guid: 150fd88ca11ae91449f0ed8c14520842, type: 2}

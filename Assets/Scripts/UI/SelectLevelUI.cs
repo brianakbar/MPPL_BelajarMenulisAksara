@@ -1,14 +1,14 @@
 using UnityEngine;
-using UnityEngine.UI;
 using Aksara.Setting;
 using Aksara.Core;
 using TMPro;
+using Aksara.Utility;
 
 namespace Aksara.UI
 {
     public class SelectLevelUI : MonoBehaviour
     {
-        [SerializeField] Image title;
+        [SerializeField] TextMeshProUGUI titleText;
         [SerializeField] TextMeshProUGUI difficultyText;
         [SerializeField] SelectLevelItemUI selectLevelItemPrefab = null;
         
@@ -30,8 +30,8 @@ namespace Aksara.UI
             var levelSetting = gameSetting.GetLevelSetting();
             if(levelSetting == null) return;
 
-            title.sprite = levelSetting.LanguageSprite;
-            difficultyText.text = levelSetting.Difficulty.ToString();
+            titleText.text = levelSetting.Language.ToString();
+            difficultyText.text = StringModifier.AddSpacesToSentence(levelSetting.Difficulty.ToString());
 
             var aksaraCharacters = gameSetting.GetAksaraCharacters();
             if(aksaraCharacters == null) return;

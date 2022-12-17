@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6a8153f26b9c4d4db5bbbff2802fed6, type: 3}
+  m_Name: Bali Aksara Wyanjana
+  m_EditorClassIdentifier: 
+  language: 2
+  difficulty: 10
+  aksaraCharacters:
+  - {fileID: 11400000, guid: 524b0d08b7655e14181ebe23be8a4f27, type: 2}
+  - {fileID: 11400000, guid: 05e785e68430e864bae4401bffe1a96e, type: 2}
+  - {fileID: 11400000, guid: 989fbcc55ad3bd74c84134e6c3e2aa5f, type: 2}
+  - {fileID: 11400000, guid: 8098817c364543840acb02c88adcebc3, type: 2}
+  - {fileID: 11400000, guid: 9670f5ca57101f54db6fb7a6dab07623, type: 2}
+  - {fileID: 11400000, guid: b6b9e8fa25fe7fd4eb62074ef60f0c3c, type: 2}
+  - {fileID: 11400000, guid: 5221cdcff99b3514390a94a7f4b0caca, type: 2}
+  - {fileID: 11400000, guid: 04685460812634a45af60b3cdf410254, type: 2}
+  - {fileID: 11400000, guid: 47be08b42a48a694f9fa7a5d7e4186b6, type: 2}
+  - {fileID: 11400000, guid: b732c7db3f576734c91ab9677ad4973f, type: 2}
+  - {fileID: 11400000, guid: d0ee4876a125c794e933c688e03f8445, type: 2}
+  - {fileID: 11400000, guid: ad0f9b8a580e47e418c76fec895a68d1, type: 2}
+  - {fileID: 11400000, guid: 2ec01f8d4f6f126489aa94f051846331, type: 2}
+  - {fileID: 11400000, guid: ca871657c32936746969a0ca30b8462a, type: 2}
+  - {fileID: 11400000, guid: 68449a4714a04284283e3caa875533cb, type: 2}
+  - {fileID: 11400000, guid: c81bc4955daddf348bb32713936cb28a, type: 2}
+  - {fileID: 11400000, guid: 011ddc78d97bdb2419c3402663aefef7, type: 2}
+  - {fileID: 11400000, guid: 21c8723ff99e4c549a58bf0bb15af48d, type: 2}
+  - {fileID: 11400000, guid: 9964a6635219382448ef2deeae10f40f, type: 2}
+  - {fileID: 11400000, guid: 595b52a603ea14b449a02f927bb77cd3, type: 2}
+  - {fileID: 11400000, guid: 43c32b37296ea0544a023de457e629d9, type: 2}
+  - {fileID: 11400000, guid: 28efa0f1b88664e4d8d5515dc8e20093, type: 2}
+  - {fileID: 11400000, guid: 98f4b5f1b4b48cc4599f1668fcc8d7e4, type: 2}
+  - {fileID: 11400000, guid: 15afd32005ebb6549976ab69c52bbd1f, type: 2}
+  - {fileID: 11400000, guid: 4ca266f15a836b2489af835ad8e12403, type: 2}
+  - {fileID: 11400000, guid: 11dc0f5c315260b4bb2d1cad091045ba, type: 2}
+  - {fileID: 11400000, guid: 1f0eab93c99069642816446f4d635b01, type: 2}
+  - {fileID: 11400000, guid: 168068eab7542444481ca2a74a37fd9f, type: 2}
+  - {fileID: 11400000, guid: 3b04ac570386634479578fb609d786d3, type: 2}
+  - {fileID: 11400000, guid: 3b5104f96e51f87448c04b0f81fb6f38, type: 2}
+  - {fileID: 11400000, guid: aaef118b49d24aa49aabc1be4299f43d, type: 2}
+  - {fileID: 11400000, guid: 32634dd6caef91a4da846d83eb0c6d20, type: 2}
+  - {fileID: 11400000, guid: 16848ab1fe8b36e48b1ea7e1423a62e8, type: 2}

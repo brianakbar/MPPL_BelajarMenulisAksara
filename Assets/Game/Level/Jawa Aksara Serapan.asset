@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6a8153f26b9c4d4db5bbbff2802fed6, type: 3}
+  m_Name: Jawa Aksara Serapan
+  m_EditorClassIdentifier: 
+  language: 0
+  difficulty: 6
+  aksaraCharacters:
+  - {fileID: 11400000, guid: ab9689e1637fb3140895d758a48024c2, type: 2}
+  - {fileID: 11400000, guid: e0140c1182fb2bd44bfae4e738f913e1, type: 2}
+  - {fileID: 11400000, guid: 487611c3daaa4ec46a228f2c5bfb7b1b, type: 2}
+  - {fileID: 11400000, guid: 2c3be1d3d58413c4b8270c5deb54e88b, type: 2}
+  - {fileID: 11400000, guid: fb12e5fa7608ae4439ba491f4e265fc8, type: 2}

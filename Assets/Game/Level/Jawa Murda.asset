@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6a8153f26b9c4d4db5bbbff2802fed6, type: 3}
+  m_Name: Jawa Murda
+  m_EditorClassIdentifier: 
+  language: 0
+  difficulty: 1
+  aksaraCharacters:
+  - {fileID: 11400000, guid: dda01d261e7b2a54c8072d096c812b99, type: 2}
+  - {fileID: 11400000, guid: 2d0d0e211aff09e428e4b667b074c0ac, type: 2}
+  - {fileID: 11400000, guid: 014c07e26298e5c4ab67ca3dc091f1f2, type: 2}
+  - {fileID: 11400000, guid: d560a53d42b30a44088ccc53679e2399, type: 2}
+  - {fileID: 11400000, guid: c98ed40760dee9a4dbc97969a7ffc209, type: 2}
+  - {fileID: 11400000, guid: 0029023feece0484aa6f691dbb383ae9, type: 2}
+  - {fileID: 11400000, guid: 9afcd8d876d811246bd77019e23e7d85, type: 2}
+  - {fileID: 11400000, guid: a1a752506b71b064584afccbe447995f, type: 2}
+  - {fileID: 11400000, guid: 44b94ac7ccb399448bd35e67341a81f1, type: 2}
+  - {fileID: 11400000, guid: a7d480cb90aeded4aa2cc7a24f714254, type: 2}
