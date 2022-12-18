@@ -16,5 +16,5 @@ MonoBehaviour:
   mainMenuSprite: {fileID: 21300000, guid: b72f4d0cdcfd8c44d84f0d5e4cef35d5, type: 3}
   fillSprite: {fileID: 21300000, guid: bc2cd63b80725f744b38b3c3ed0be24f, type: 3}
   outlineSprite: {fileID: 21300000, guid: 63be3e35f0bc7df48ab9233c51ab07a1, type: 3}
-  accuracy: 0.5
+  accuracy: 0.3
   sound: {fileID: 0}
