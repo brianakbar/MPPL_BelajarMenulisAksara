@@ -11,6 +11,7 @@ namespace Aksara.Core {
         AksaraNgalagena,
         AksaraPangwilang,
         InaNiSurat,
-        AksaraWyanjana
+        AksaraWyanjana,
+        AksaraWreastra
     }
 }

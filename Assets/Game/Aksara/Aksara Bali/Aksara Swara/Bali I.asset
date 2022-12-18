@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ed673b082ec17f48ada81ad7d0bc5e1, type: 3}
+  m_Name: Bali I
+  m_EditorClassIdentifier: 
+  characterName: I
+  mainMenuSprite: {fileID: 21300000, guid: 4e663f389dae3414fb2392694730c985, type: 3}
+  fillSprite: {fileID: 21300000, guid: 16f43993c84954a45b8cf64411186ce9, type: 3}
+  outlineSprite: {fileID: 21300000, guid: b719b9c6bb96afa46a1d5d192bd398fd, type: 3}
+  accuracy: 0.5
+  sound: {fileID: 0}

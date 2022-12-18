@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6a8153f26b9c4d4db5bbbff2802fed6, type: 3}
+  m_Name: Bali Aksara Wreastra
+  m_EditorClassIdentifier: 
+  language: 2
+  difficulty: 11
+  aksaraCharacters:
+  - {fileID: 11400000, guid: df31d83459d61ab4b92374d0f7aeca38, type: 2}
+  - {fileID: 11400000, guid: 74ad9a3af0b7a4042a92df09db1322d3, type: 2}
+  - {fileID: 11400000, guid: afb4bb919f4364a42bfb50b7e1cb8e1c, type: 2}
+  - {fileID: 11400000, guid: 6a9bb8b62889a4246bbf549b23b01973, type: 2}
+  - {fileID: 11400000, guid: c824c3e0396227745808841984cccb6a, type: 2}
+  - {fileID: 11400000, guid: 810e2393229448642a495ca0c29880b9, type: 2}
+  - {fileID: 11400000, guid: 17462de72081ba64981e1949e02ff6a6, type: 2}
+  - {fileID: 11400000, guid: 806fb46407669f34aa09dfbb618a6a89, type: 2}
+  - {fileID: 11400000, guid: 755a7a8722bb9bb46b8680150a73cea2, type: 2}
+  - {fileID: 11400000, guid: 2ae898de00065a94ca08653894121d5a, type: 2}
+  - {fileID: 11400000, guid: ab024385124336842bd07c2c2a9eba08, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 531fecb702a646c409056c74d58e14b8, type: 2}
+  - {fileID: 11400000, guid: e330836492875d1409c8c96503a74e17, type: 2}
+  - {fileID: 11400000, guid: c2c47fbe5fe74f1428f0ab89770ad89a, type: 2}
+  - {fileID: 11400000, guid: 376ca44354c72f045a6a4f6f9e65f7d3, type: 2}
+  - {fileID: 11400000, guid: 084ba9eaa27360b41b603d31f9e2a3b5, type: 2}
+  - {fileID: 11400000, guid: 5949492f04391994abfdc18477e1de98, type: 2}
+  - {fileID: 11400000, guid: dee9dc0185809024ca01d677d5070db0, type: 2}

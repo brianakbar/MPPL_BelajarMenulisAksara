@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ed673b082ec17f48ada81ad7d0bc5e1, type: 3}
+  m_Name: Wa
+  m_EditorClassIdentifier: 
+  characterName: Wa
+  mainMenuSprite: {fileID: 21300000, guid: c42ef9677dc1b7c408331ed08ab9ec17, type: 3}
+  fillSprite: {fileID: 21300000, guid: 01327a11a2c2cb340a1da31f2b77b53d, type: 3}
+  outlineSprite: {fileID: 21300000, guid: 0e1892a2d45c6de419feb256f18c5bd8, type: 3}
+  accuracy: 0.3
+  sound: {fileID: 8300000, guid: d4ceced9cafef3e4b8eacebdd062656c, type: 3}

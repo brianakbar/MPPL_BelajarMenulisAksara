@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6a8153f26b9c4d4db5bbbff2802fed6, type: 3}
+  m_Name: Bali Aksara Swara
+  m_EditorClassIdentifier: 
+  language: 2
+  difficulty: 4
+  aksaraCharacters:
+  - {fileID: 11400000, guid: 9e2452a4186dceb49a5f12948bc1085d, type: 2}
+  - {fileID: 11400000, guid: d5d90c5f3518e0345bf2cc7851d0fa0a, type: 2}
+  - {fileID: 11400000, guid: f2dbd6f3578e6f746bb6717e0a7cd2c0, type: 2}
+  - {fileID: 11400000, guid: fde61f0a69534744384122d9f6d75545, type: 2}
+  - {fileID: 11400000, guid: ba110e205fb083041b7c93ead976cb45, type: 2}
+  - {fileID: 11400000, guid: 42b6607bfa342244b92318f13a29e024, type: 2}
+  - {fileID: 11400000, guid: 08ec8a28c0dc0e747944a3d081c99074, type: 2}
+  - {fileID: 11400000, guid: 6a71bbf6f2434ae4c9390e8a03c2a16a, type: 2}
+  - {fileID: 11400000, guid: 6234c8a6cb92c50458b9782abf6dbe34, type: 2}
+  - {fileID: 11400000, guid: ff8e3c304d977de4797ef06718b6210f, type: 2}
+  - {fileID: 11400000, guid: 4dc90e160ab19354bac629a679a907ff, type: 2}
+  - {fileID: 11400000, guid: 1c250ad21e64b5c4fa98acfe233bf745, type: 2}
+  - {fileID: 11400000, guid: 8bf38989dcdf84941bc7c6564f7a2931, type: 2}
+  - {fileID: 11400000, guid: 5305e34b0690dd745aef582ba9174a7e, type: 2}

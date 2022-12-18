@@ -13,7 +13,6 @@ MonoBehaviour:
   m_Name: Sunda Ngalagena
   m_EditorClassIdentifier: 
   language: 1
-  languageSprite: {fileID: 0}
   difficulty: 7
   aksaraCharacters:
   - {fileID: 11400000, guid: 47ad252b037b9f9449186599068eef2d, type: 2}
